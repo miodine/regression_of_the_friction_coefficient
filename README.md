@@ -1,0 +1,1 @@
+# regression_of_the_friction_coefficient
